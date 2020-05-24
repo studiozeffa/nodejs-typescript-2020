@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-typescript-2020",
+  "version": "1.0.0",
+  "description": "An example of using TypeScript and Babel in a node.js project.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc && babel src --out-dir dist --extensions .ts"
+  },
+  "author": "Tom Spencer <mailbox@tomspencer.dev",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/node": "^14.0.5",
+    "typescript": "^3.9.3"
+  }
+}
