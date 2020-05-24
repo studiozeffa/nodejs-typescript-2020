@@ -1,6 +1,6 @@
 # TypeScript for node.js in 2020
 
-This is the companion repository for the blog post [It's 2020: let's build a node.js app with TypeScript](blog/2020/05/22/its-2020-lets-build-a-node.js-app-with-typescript/).
+This is the companion repository for the blog post [It's 2020: let's build a node.js app with TypeScript](https://www.tomspencer.dev/blog/2020/05/22/its-2020-lets-build-a-node.js-app-with-typescript/).
 
 ## Usage
 
